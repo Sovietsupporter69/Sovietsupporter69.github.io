@@ -1,0 +1,45 @@
+<style>
+    * {
+        box-sizing: border-box;
+    }
+    
+    .header {
+        float: left;
+        width: 100%;
+        padding: 0px;
+        height: auto;
+        text-align: center;
+    }
+
+    .index_column {
+        float: left;
+        width: 20%;
+        padding: 0px;
+        height: 50px;
+        text-align: center;
+        border: 0px;
+    }
+    
+    .forms_align {
+        float: left;
+        width: 50%;
+        padding: 0px;
+        height: auto;
+        text-align: center;
+        border: 0px;
+    }
+
+    .speed {
+        float: left;
+        width: 50%;
+        padding: 0px;
+        height: auto;
+        text-align: center;
+        border: 0px;
+    }
+    .rows:after{
+        content: "";
+        display: table;
+        clear: both;
+    }
+</style>
