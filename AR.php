@@ -1,7 +1,8 @@
 <html>
 <head>
-    <link rel="stylesheet" href="styles.css">
-    <title> Fill in the form! </title>
+  <link rel="stylesheet" href="styles.css">
+  <title> AR test </title>
+  <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
 </head>
 <body BGcolor="#232389">
   <a-scene>
