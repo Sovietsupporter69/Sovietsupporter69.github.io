@@ -19,7 +19,9 @@
                 <div class="index_column" style="background-color:#232367;">
                     <a href="ImageUpload.php"><font size="4" color="white">Upload an image</font></a>
                 </div>
-                <div class="index_column" style="background-color:#232367;"></div>
+                <div class="index_column" style="background-color:#232367;">
+                    <a href="AR.php"><font size="4" color="white">Upload an image</font></a>
+                </div>
             </div>
         </font>
     </body>
